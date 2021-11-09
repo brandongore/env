@@ -2,7 +2,8 @@
 
 How to use
 
-#powershell
+# powershell
+
 Install-Module posh-git
 winget install JanDeDobbeleer.OhMyPosh
 
